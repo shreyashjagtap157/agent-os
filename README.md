@@ -1,4 +1,6 @@
-# Fork status and upstream attribution
+# Agent OS (fork)
+
+## Fork status and upstream attribution
 
 > This repository is a **fork** of [buildermethods/agent-os](https://github.com/buildermethods/agent-os), the upstream Agent OS project. Upstream website: [buildermethods.com/agent-os](https://buildermethods.com/agent-os). The upstream code and project history are not wholly original to this fork; preserve upstream licensing and attribution.
 >
